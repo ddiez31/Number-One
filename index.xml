@@ -1,20 +1,20 @@
-<?xml version="1.1" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <repertoire>
 <!-- client -->
-    <client>
-        <nom type="nom">DIEZ</nom>
+    <client num="0">
+        <nom>DIEZ</nom>
         <prenom>David</prenom>
         <age>39 ans</age>
         <profession>Développeur Web</profession>
-        <telephone>07 82 06 31 77</telephone>
+        <telephone>07.82.06.31.77</telephone>
         <email>david.diez31@free.fr</email>
     </client>
-     <client>
-        <nom type="nom">EGTGVEV</nom>
-        <prenom>frzfr</prenom>
+    <client num="2">
+        <nom>DUPONT</nom>
+        <prenom>Jean</prenom>
         <age>25</age>
-        <profession>vrev</profession>
-        <telephone>8754233456</telephone>
-        <email>fzree@erf.com</email>
+        <profession>Commercial</profession>
+        <telephone>06.75.42.33.45</telephone>
+        <email>jdupont@gmail.com</email>
     </client>
 </repertoire>
